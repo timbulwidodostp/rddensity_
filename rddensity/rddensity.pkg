@@ -1,4 +1,30 @@
-D 'DEA': Data envelopment analysis
+D 'rddensity': Manipulation testing using local polynomial density estimation Use rddensity With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F lpbwdensity.ado
+F lpbwdensity.sthlp
+F lpdensity.ado
+F lpdensity.sthlp
+F lpdensity_bwimse.mo
+F lpdensity_bwirot.mo
+F lpdensity_bwmse.mo
+F lpdensity_bwrot.mo
+F lpdensity_cgen.mo
+F lpdensity_fn.mo
+F lpdensity_ggen.mo
+F lpdensity_normdgp.mo
+F lpdensity_optfunc.mo
+F lpdensity_quantile.mo
+F lpdensity_rep.mo
+F lpdensity_sgen.mo
+F lpdensity_tgen.mo
+F lpdensity_unique.mo
+F lpdensity_whichmin.mo
+F rdbwdensity.ado
+F rdbwdensity.sthlp
+F rddensity.ado
+F rddensity.sthlp
+F rddensity_fv.mo
+F rddensity_h.mo
+F rddensity_quantile.mo
+F rddensity_rep.mo
+F rddensity_unique.mo
