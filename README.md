@@ -1,5 +1,7 @@
 # rddensity_
-Manipulation testing using local polynomial density estimation Use rddensity With STATA 18
+Manipulation testing using local polynomial density estimation Use rddensity With STATA 19
+
+https://www.youtube.com/watch?v=XhDsrVWlG9E
 
 Olah Data Semarang
 
